@@ -19,3 +19,8 @@ vagrant up
 ## destroy the vm
 vagrant destroy
 ```
+
+
+### Ansible 
+
+Use `source .env` to get started using the repo with ansible variables configured
